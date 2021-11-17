@@ -1,4 +1,5 @@
-var manipulado = document.getElementById("tadoido")
-var c = manipulado.innerHTML;
-c = c + "eu nao"
-alert(c);
+if (99 == "99") {
+    console.log("O numero é igual a string")
+} else {
+    console.log("O numero não é igual")
+}
