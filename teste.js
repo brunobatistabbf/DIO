@@ -5,4 +5,12 @@ function valorFuturo(valorPresente, taxaJuros, prazoMaturação) {
 }
 
 
-console.log(valorFuturo(1000, 7.5, 12));
+console.log(valorFuturo(1000000, 7.5, 12));
+
+
+obj =  {
+    
+    nome = undefined,
+    idade = 0,
+    profissao = undefined,
+}
